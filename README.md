@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thirupathi2007/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0997-find-the-town-judge](https://github.com/Thirupathi2007/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
 | ------- |
