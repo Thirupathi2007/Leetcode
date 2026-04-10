@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Thirupathi2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2000-reverse-prefix-of-word](https://github.com/Thirupathi2007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Thirupathi2007/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/Thirupathi2007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Thirupathi2007/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Thirupathi2007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Thirupathi2007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
