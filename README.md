@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thirupathi2007/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/Thirupathi2007/Leetcode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3836-maximum-score-using-exactly-k-pairs](https://github.com/Thirupathi2007/Leetcode/tree/master/3836-maximum-score-using-exactly-k-pairs) |
 ## Greedy
 |  |
 | ------- |
