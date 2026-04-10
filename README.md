@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Thirupathi2007/Leetcode/tree/master/0704-binary-search) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi2007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Thirupathi2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thirupathi2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -334,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
