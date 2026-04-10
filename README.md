@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0917-reverse-only-letters](https://github.com/Thirupathi2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1143-longest-common-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/Thirupathi2007/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1143-longest-common-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Trie
 |  |
 | ------- |
