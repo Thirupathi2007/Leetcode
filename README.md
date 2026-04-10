@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Thirupathi2007/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Thirupathi2007/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Thirupathi2007/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Thirupathi2007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Thirupathi2007/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Thirupathi2007/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Thirupathi2007/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
