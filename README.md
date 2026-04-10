@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thirupathi2007/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Thirupathi2007/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thirupathi2007/Leetcode/tree/master/0048-rotate-image) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Thirupathi2007/Leetcode/tree/master/0043-multiply-strings) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Memoization
 |  |
 | ------- |
