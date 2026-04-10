@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Thirupathi2007/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
