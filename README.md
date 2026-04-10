@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thirupathi2007/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thirupathi2007/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Thirupathi2007/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Thirupathi2007/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
