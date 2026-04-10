@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Thirupathi2007/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Thirupathi2007/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi2007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0090-subsets-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
 | ------- |
