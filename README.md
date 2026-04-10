@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thirupathi2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -274,16 +275,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Thirupathi2007/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirupathi2007/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Thirupathi2007/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Thirupathi2007/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Thirupathi2007/Leetcode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
