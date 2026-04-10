@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Thirupathi2007/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Thirupathi2007/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Thirupathi2007/Leetcode/tree/master/0048-rotate-image) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Thirupathi2007/Leetcode/tree/master/0043-multiply-strings) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Memoization
 |  |
 | ------- |
