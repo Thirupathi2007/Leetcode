@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Thirupathi2007/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Thirupathi2007/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Thirupathi2007/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Thirupathi2007/Leetcode/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0997-find-the-town-judge](https://github.com/Thirupathi2007/Leetcode/tree/master/0997-find-the-town-judge) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Thirupathi2007/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
