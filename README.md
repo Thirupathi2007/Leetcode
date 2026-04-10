@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi2007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Thirupathi2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -353,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
