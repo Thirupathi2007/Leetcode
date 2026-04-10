@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Thirupathi2007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Thirupathi2007/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi2007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi2007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Thirupathi2007/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Thirupathi2007/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Thirupathi2007/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
