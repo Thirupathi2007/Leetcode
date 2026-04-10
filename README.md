@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Thirupathi2007/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thirupathi2007/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirupathi2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Thirupathi2007/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thirupathi2007/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Thirupathi2007/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thirupathi2007/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Thirupathi2007/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
