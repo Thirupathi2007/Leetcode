@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirupathi2007/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Thirupathi2007/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Thirupathi2007/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Thirupathi2007/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Thirupathi2007/Leetcode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Thirupathi2007/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Thirupathi2007/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Shortest Path
 |  |
 | ------- |
