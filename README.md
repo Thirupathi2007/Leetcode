@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2000-reverse-prefix-of-word](https://github.com/Thirupathi2007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Thirupathi2007/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Thirupathi2007/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Thirupathi2007/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Thirupathi2007/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Thirupathi2007/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Thirupathi2007/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Thirupathi2007/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
