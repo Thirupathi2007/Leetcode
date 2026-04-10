@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0973-k-closest-points-to-origin](https://github.com/Thirupathi2007/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thirupathi2007/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
