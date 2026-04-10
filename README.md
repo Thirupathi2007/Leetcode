@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Thirupathi2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Thirupathi2007/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thirupathi2007/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Thirupathi2007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Thirupathi2007/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Thirupathi2007/Leetcode/tree/master/0043-multiply-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Thirupathi2007/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
