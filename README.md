@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Thirupathi2007/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Thirupathi2007/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Thirupathi2007/Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thirupathi2007/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thirupathi2007/Leetcode/tree/master/0035-search-insert-position) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Thirupathi2007/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Thirupathi2007/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Thirupathi2007/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Thirupathi2007/Leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirupathi2007/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
