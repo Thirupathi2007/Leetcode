@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Thirupathi2007/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Thirupathi2007/Leetcode/tree/master/0704-binary-search) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Thirupathi2007/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Thirupathi2007/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Thirupathi2007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Trie
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Thirupathi2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Thirupathi2007/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Thirupathi2007/Leetcode/tree/master/0743-network-delay-time) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Thirupathi2007/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Merge Sort
 |  |
 | ------- |
