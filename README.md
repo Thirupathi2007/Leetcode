@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thirupathi2007/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirupathi2007/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Thirupathi2007/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Thirupathi2007/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Thirupathi2007/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0090-subsets-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi2007/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Thirupathi2007/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
