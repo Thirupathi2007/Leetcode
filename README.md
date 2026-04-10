@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Thirupathi2007/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Thirupathi2007/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Thirupathi2007/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Thirupathi2007/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Thirupathi2007/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Thirupathi2007/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Thirupathi2007/Leetcode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
